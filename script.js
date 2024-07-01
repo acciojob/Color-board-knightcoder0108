@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 // script.js
 
 document.addEventListener('DOMContentLoaded', () => {
